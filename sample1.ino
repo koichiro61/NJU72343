@@ -8,7 +8,7 @@
  * volume control value value for gain g (dB) is 
  * 0x40 - (g x 2)
  * when g = 0dB, the value is 0x40
- * when g = -40dB, the value is 0x40 - (-40 x 2) = 90
+ * when g = -40dB, the value is 0x40 - (-40 x 2) = 0x90
  * 
  */
 
